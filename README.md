@@ -68,7 +68,6 @@ It measures **how far each wheel has rotated** and uses that to calculate:
 **Odometry = tracking position + heading using wheel movement data.
 It gives live robot coordinates for precision autonomous control.**
 
-If you want, I can walk you through **coding a basic odometry system** for VEX V5. Just ask! 😊
 
 
 ## Our approach 
