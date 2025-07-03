@@ -78,11 +78,27 @@ This is our main plan if our read and replay code fails.
 ## Links
 https://www.youtube.com/watch?v=GEZBYHVHmFQ&pp=ygUIb2RvbWV0cnk%3D -> explains what odometry is
 
+https://www.youtube.com/watch?v=ZW7T6EFyYnc -> odometry geometry explanation
+
+https://www.youtube.com/watch?v=XkmZq2jopT4 -> odometry maths explanation
+
+https://www.youtube.com/watch?v=vxSK2NYtYJQ -> more maths
+
+https://www.youtube.com/watch?v=qqODIdvSGac -> more maths
+
 https://okapilib.github.io/OkapiLib/md_docs_tutorials_walkthrough_odometry.html -> Odometry code tutorial.
 
 https://pros.cs.purdue.edu/v5/index.html -> the framework used to code this.
 
 https://pros.cs.purdue.edu/v5/api/c/rotation.html -> implementing rotation sensors.
 
-https://wiki.purduesigbots.com -> A handy site, the Bible of VEX, with answers to almost everything VEX
+https://wiki.purduesigbots.com -> A handy site, the **Bible** of VEX, with answers to almost everything VEX
+
+https://gist.github.com/Tropix126/7fbf7d1b3ede557b76f3656db8af3fd3 -> shows how to do odometry with code and inertial sensors
+
+https://www.vexforum.com/t/introducing-jar-template-a-vexcode-pro-library-featuring-custom-pid-and-odometry/111793 -> For those who dont want to use **PROS** OR *OKIPLILABS*, this is a custom VEX V5 text based template, with odometry, PID etc
+
+https://www.desmos.com/calculator/jdcekd02pl -> odometry simulator using Desmos
+
+https://www.youtube.com/watch?v=_WbhUeprUS8 -> ROS lib linux based
 
